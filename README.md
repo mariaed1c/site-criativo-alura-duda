@@ -20,8 +20,7 @@
 
 
 
-
 header {
-    background-color: #ff0000;
-    color: rgb(255, 255, 255);
+    background-color: #424E61;
+    color: white;
 }
